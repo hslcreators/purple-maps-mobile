@@ -11,12 +11,18 @@ This is a project birthed under HSL to provide campus walkers with an avenue to 
 
  ## Screenshots
  Here are some screenshots of our app:
+ ****** to be added later
 
 ## Getting Started
 ### Prerequisites
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - Dart SDK (included with Flutter)
 - Android Studio or Xcode for mobile development
+ 
+
+
+
+
 
 ## Contribution
 
@@ -36,6 +42,3 @@ If you would love to contribute to our project please go through these steps:
 #### License
 ______
 Distributed under the MIT license.  Check `LICENSE` for more details.
-
-# purple-maps-mobile
-Mobile for Purple Maps to help covenant university students navigate covenant university with ease
